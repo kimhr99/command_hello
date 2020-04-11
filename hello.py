@@ -1,3 +1,6 @@
+// Hor command line git tutorial
+// GitHub modification
+
 <<<<<<< HEAD
 print("Hello word")
 print("Tell your world")
